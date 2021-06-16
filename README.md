@@ -1,1 +1,1 @@
-# Simple-NN-using-PyTorch
+I've decided to learn Pytorch by implementing small networks and gradually elevating. This code is a two layer network trained on the MNIST dataset with a training accuracy of  96.92 and test accuracy of 96.20
